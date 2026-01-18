@@ -115,11 +115,9 @@ O jogo será iniciado em uma nova janela.
 
 ## 🖼️ Imagens do Projeto
 
-```
 <img width="798" height="594" alt="menu" src="https://github.com/user-attachments/assets/cc167a7c-b24f-471d-a82f-f76ac188d44d" />
 <img width="798" height="591" alt="gameplay" src="https://github.com/user-attachments/assets/5e75b127-4a5b-489a-9241-e79660da8d3b" />
 <img width="798" height="593" alt="game_over" src="https://github.com/user-attachments/assets/d88376d7-d20c-4234-b55c-dda416b05164" />
-```
 
 ---
 
@@ -127,9 +125,7 @@ O jogo será iniciado em uma nova janela.
 
 > 📌 **Adicione aqui um GIF demonstrando o gameplay**
 
-```
 ![gif](https://github.com/user-attachments/assets/03449ef2-18cf-416d-87f8-fc6b3ef531c2)
-```
 
 ---
 

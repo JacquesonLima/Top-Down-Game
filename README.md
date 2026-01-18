@@ -131,6 +131,5 @@ O jogo será iniciado em uma nova janela.
 
 ## 📌 Observação Final
 
-Este projeto foi desenvolvido com foco em **aprendizado**, explorando organização de código, lógica de jogos e boas práticas iniciais em Python com Pygame Zero.
-
-Ele serve como uma base sólida para evoluções futuras, como fases, power-ups, barra de vida e novos tipos de inimigos.
+Este projeto foi desenvolvido como fase de teste prático para vaga de Tutores na Kodland, e seu principal objetivo era colocar em prática o conhecimento
+sobre Python e a biblioteca Pygame zero.

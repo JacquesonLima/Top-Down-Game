@@ -123,8 +123,6 @@ O jogo será iniciado em uma nova janela.
 
 ## 🎞️ GIF do Jogo
 
-> 📌 **Adicione aqui um GIF demonstrando o gameplay**
-
 ![gif](https://github.com/user-attachments/assets/03449ef2-18cf-416d-87f8-fc6b3ef531c2)
 
 ---
